@@ -2,3 +2,4 @@ dummy file
 yes it is
 or is it?
 or maybe not
+line 5
